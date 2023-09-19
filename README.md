@@ -10,7 +10,7 @@ It's fast, flexible, and reliable — with zero-runtime.
 #### Screenshot:
 
 <p style= "align:center">
-  <img src="" alt="Instagram Clone">
+  <img src="https://i.ibb.co/P4BwZ4C/instagram-clone.jpg" alt="Instagram Clone">
 </p>
 
 
